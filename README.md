@@ -2,6 +2,8 @@
 
 A simple NodeJS application I created to track my tasks in the form of tickets
 
+<img width="573" alt="sc" src="https://user-images.githubusercontent.com/46057910/136989775-361de894-64b8-4feb-88da-85aac5ea9fdd.png">
+
 ## Installation
 
 After cloning, in the root directory of the repo, give the command:
